@@ -1,4 +1,4 @@
-# ardunio ile led parlaklığı ayarlanması
+# ardunio ile bluetooth dc motor kontrolü
 
 devre şemasına aşağıdan ulaşabilirsiniz 
 
