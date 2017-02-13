@@ -1,1 +1,1 @@
-# Akademik Bilişim 2017 Ardunio Örnekleri
+# Akademik Bilişim 2017 Arduino Örnekleri
